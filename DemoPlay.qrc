@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="DemoPlay">
+    <file>Resources/ic_volume_thumb.png</file>
+  </qresource>
+</RCC>
